@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spiderman Far From Suit
+* source:	https://sketchfab.com/3d-models/spiderman-far-from-suit-5f6157f8b0b1405fa63aca154b2debd1
+* author:	CG DEADPOOL (https://sketchfab.com/Osman23)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spiderman Far From Suit" (https://sketchfab.com/3d-models/spiderman-far-from-suit-5f6157f8b0b1405fa63aca154b2debd1) by CG DEADPOOL (https://sketchfab.com/Osman23) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
